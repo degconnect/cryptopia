@@ -3,6 +3,8 @@ Python API for Cryptopia(https://www.cryptopia.co.nz/)
 
 ##### Not ready for python 3.4 yet
 
+### pip install https://github.com/edilio/cryptopia/archive/master.zip
+
 #### Basic Public Setup (no API Key/Secret):
 ```python
 from cryptopia import Cryptopia
